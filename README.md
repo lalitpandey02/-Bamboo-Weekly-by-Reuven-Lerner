@@ -22,3 +22,7 @@ How can we calculate inflation?
 Which countries won significantly more Olympic medals in 2022 than they had in the past?
 
 What cities have seen a drop in rental prices in the last six months?
+
+Questions? Suggestions for topics I should cover? Interesting data sets I should know about? Please send them to me at reuven@lerner.co.il.
+
+I’m having lots of fun learning about the world, and about Pandas, with Bamboo Weekly. I hope that you’ll join me!
